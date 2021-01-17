@@ -4,11 +4,13 @@ https://github.com/vinfamy/LifePlay
 
 
 ### 1- rk_PopCornsShop  : 
-Add options to buy/eat popcorns at different places around the city.
+Add options to buy/eat popcorns at different places around the city.  
+4 popcorns to choose.  
+Contain 3 scenes.  
 
 
 ### Module requirements
-None
+At least LifePlay 3.18
 
 
 ### Module conflict
@@ -24,7 +26,7 @@ c:\..\LifePlay\Content\Modules\rk_PopCornsShop
 
 NOT
 
-c:\..\LifePlay\Content\Modules\rk_PopCornsShop\rk_PopCornsShop
+c:\..\LifePlay\Content\Modules\RK-PopCorns-Shop\rk_PopCornsShop
 
 After the mod have been installed, make sure the mod is active in the Mod Manager. 
 
